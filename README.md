@@ -1,4 +1,5 @@
-# Project Description: HTTP Proxy Server with File Download**
+# WebProxyManager
+** Project Description: HTTP Proxy Server with File Download**
 
 This project consists of two Java programs: `HW1Client` and `HW1Server`, which together create a basic HTTP proxy server capable of downloading web content to a local file. Here's a summary of each program's functionality:
 
